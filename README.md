@@ -2,6 +2,8 @@
 
 [English README](./README.en.md)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./.github/PULL_REQUEST_TEMPLATE.md) [![Last commit](https://img.shields.io/github/last-commit/tetratensor/awesome-development-rules)](./)
+
 `Development Rules`は、ソフトウェア開発のベストプラクティスとガイドラインをまとめた、包括的で実践的なリポジトリです。<br>
 このリポジトリは、開発者、チーム、組織が、より高品質、保守性、スケーラブルなソフトウェアを開発するための指針を提供することを目的としています。
 
@@ -19,6 +21,10 @@
 - [リファレンス](#reference)
 - [便利なテンプレート](#template)
 - [お得な情報](#deals)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Authors](#authors)
+- [License](#license)
 <!-- - [CSS設計](#css-design) -->
 
 <h1 id="code-style">コーディングスタイル</h1>
@@ -480,3 +486,27 @@ PREP 法とは、Point(ポイント)、Reason(理由)、Example(例)、Point(ポ
 
 - [Google Styleguide](https://github.com/google/styleguide/tree/gh-pages)
 - [Twelve-Factor App](https://12factor.net/ja/)
+
+<h1 id="template">便利なテンプレート</h1>
+再利用可能なテンプレート（Issue/PR テンプレート、アーキテクチャテンプレート等）を提供します。
+準備中。コントリビューション歓迎。
+
+<h1 id="deals">お得な情報</h1>
+開発者に役立つ割引やオファーのまとめ。
+準備中。コントリビューション歓迎。
+
+<h1 id="contributing">Contributing</h1>
+コントリビューションを歓迎します！大きな変更の場合はまず Issue で議論し、その後 Pull Request を作成してください。
+
+- 本リポジトリのガイドラインに沿って編集をお願いします
+- 明確なコミットメッセージの Prefix を使用してください（Commit Message 参照）
+- ドキュメントの更新を忘れずに
+
+<h1 id="code-of-conduct">Code of Conduct</h1>
+[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) をご確認ください。
+
+<h1 id="authors">Authors</h1>
+[AUTHORS](./AUTHORS) を参照してください。
+
+<h1 id="license">License</h1>
+[MIT License](./LICENSE) のもとで配布しています。
