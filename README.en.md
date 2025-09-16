@@ -1,5 +1,9 @@
 <h1>Development Rules</h1>
 
+[日本語版 README](./README.md)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./.github/PULL_REQUEST_TEMPLATE.md) [![Last commit](https://img.shields.io/github/last-commit/tetratensor/awesome-development-rules)](./)
+
 `Development Rules` is a comprehensive, practical repository that compiles best practices and guidelines for software development.<br>
 This repository aims to provide guidance for developers, teams, and organizations to build higher-quality, maintainable, and scalable software.
 
@@ -17,6 +21,10 @@ This repository aims to provide guidance for developers, teams, and organization
 - [References](#reference)
 - [Useful Templates](#template)
 - [Deals](#deals)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Authors](#authors)
+- [License](#license)
 <!-- - [CSS Design](#css-design) -->
 
 <h1 id="code-style">Code Style</h1>
@@ -473,3 +481,27 @@ The PREP method stands for Point, Reason, Example, Point—an effective communic
 
 - [Google Styleguide](https://github.com/google/styleguide/tree/gh-pages)
 - [Twelve-Factor App](https://12factor.net/)
+
+<h1 id="template">Useful Templates</h1>
+Provide reusable templates (issue/PR templates, architecture templates, etc.).
+Coming soon. Contributions welcome.
+
+<h1 id="deals">Deals</h1>
+Curated discounts or offers useful for developers.
+Coming soon. Contributions welcome.
+
+<h1 id="contributing">Contributing</h1>
+Contributions are welcome! Please open an Issue first to discuss major changes, then submit a Pull Request.
+
+- Follow the guidelines in this repository when proposing edits
+- Use clear commit message prefixes (see Commit Messages)
+- Keep documentation updated
+
+<h1 id="code-of-conduct">Code of Conduct</h1>
+Please read our [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+<h1 id="authors">Authors</h1>
+See [AUTHORS](./AUTHORS).
+
+<h1 id="license">License</h1>
+Distributed under the [MIT License](./LICENSE).
