@@ -2,7 +2,7 @@
 
 [English README](./README.en.md)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./.github/PULL_REQUEST_TEMPLATE.md) [![Last commit](https://img.shields.io/github/last-commit/tetratensor/awesome-development-rules)](./)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./.github/PULL_REQUEST_TEMPLATE.md) [![Last commit](https://img.shields.io/github/last-commit/tetratensor/development-rules)](./)
 
 `Development Rules`は、ソフトウェア開発のベストプラクティスとガイドラインをまとめた、包括的で実践的なリポジトリです。<br>
 このリポジトリは、開発者、チーム、組織が、より高品質、保守性、スケーラブルなソフトウェアを開発するための指針を提供することを目的としています。
